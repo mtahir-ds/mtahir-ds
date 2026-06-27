@@ -31,7 +31,6 @@ Building practical ML, NLP, and automation systems — from predictive models to
 | [**Telco Customer Churn Prediction**](https://github.com/mtahir-ds/Telco-Customer-Churn-Prediction-Project) | Random Forest classifier predicting customer churn for a telecom dataset |
 | [**Global Terrorism Analysis**](https://github.com/mtahir-ds/Global-Terrorism-Analysis) | Interactive dashboard exploring global terrorism trends (GTD dataset) |
 | [**Kairix AI**](https://github.com/mtahir-ds/kairix-ai) | AI career-coaching system built with LangChain, ChromaDB & Groq |
-| [**Smart ID OCR System**](https://github.com/mtahir-ds/Smart-ID-OCR-System) | Edge-deployed YOLOv5 Nano model for secure ID field extraction on Android (Final Year Project) |
 
 ---
 
