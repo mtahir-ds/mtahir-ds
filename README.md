@@ -48,13 +48,19 @@ I build machine learning models, LLM/RAG applications, and production-style auto
 
 ### 📌 Featured Projects
 
-#### 🤖 AI Engineering & Automation
+#### ⚙️ n8n Automation Projects
+
+| Project | Description |
+|---|---|
+| [**WhatsApp AI Ordering Assistant**](https://github.com/mtahir-ds/mda-whatsapp-ordering-assistant) | WhatsApp ordering bot for a Karachi restaurant. Customers order in plain language; the owner manages the menu and deals from chat with double approval. Built with n8n AI agents, Supabase (Postgres, pg_cron, Edge Functions), OpenRouter/OpenAI, and the WhatsApp Cloud API. Prices and stock come from the database, not the LLM |
+| [**AI Content Automation**](https://github.com/mtahir-ds/ai-content-automation-n8n) | One Google Sheets row becomes a web-researched blog post, Twitter/X thread, LinkedIn and Facebook posts, and a YouTube script. Uses Tavily search, Gemini structured output, and email approval before anything is published |
+| [**AI HR Recruitment Assistant**](https://github.com/mtahir-ds/ai-hr-recruitment-assistant) | Screens job applications end to end: parses the resume PDF, extracts the candidate profile with GPT-4o-mini, scores it 1-10 against the job posting, logs it in Google Sheets, and emails the candidate a status-specific reply |
+
+#### 🤖 AI Engineering
 
 | Project | Description |
 |---|---|
 | [**Kairix AI**](https://github.com/mtahir-ds/kairix-ai) | RAG-based AI career-coaching system built with LangChain, ChromaDB & Groq |
-| **WhatsApp AI Ordering Assistant** | End-to-end restaurant ordering agent on WhatsApp, built with n8n, Supabase, and an LLM via OpenRouter; handles menu Q&A and order finalization with safety checks *(repo coming soon)* |
-| **n8n Automation Portfolio** | Workflows for WhatsApp clinic reception, lead qualification, invoice follow-up, business reporting, support-ticket triage, and content repurposing |
 | **Edge AI ID Card Field Extraction** | Final year project: on-device field extraction from ID cards using YOLOv5 Nano on Android, with HMAC-SHA256 integrity checks |
 
 #### 📊 Data Science & Analytics
